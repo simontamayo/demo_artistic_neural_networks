@@ -1,11 +1,18 @@
 # Style transfer using deep artificial neural networks
 
 This tutorial is one of the demos used in the course “Introduction to Machine Learning” at MINES ParisTech - PSL Research University, lectured by Simon Tamayo.
-Style transfer example:
+
+Here is what Style transfer looks like:
+
+1. You have an _input_image_:
 
 ![input_image_ex](./images/vangogh.jpg) 
 
+2. You have an _input_style_ (that you want to apply to your image):
+
 ![input_style_ex](./images/cubism.jpg) 
+
+3. The output a new image with keeps the features of your _input_image_ while changing its style:
 
 ![output_ex](./results/vangogh_cubism.png) 
 
