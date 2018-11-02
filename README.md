@@ -2,8 +2,11 @@
 
 This tutorial is one of the demos used in the course “Introduction to Machine Learning” at MINES ParisTech - PSL Research University, lectured by Simon Tamayo.
 Style transfer example:
+
 ![input_image_ex](./images/vangogh.jpg) 
+
 ![input_style_ex](./images/cubism.jpg) 
+
 ![output_ex](./results/vangogh_cubism.png) 
 
 ### Acknowledgement
