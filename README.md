@@ -1,14 +1,18 @@
 # Style transfer using deep artificial neural networks
 
 This tutorial is one of the demos used in the course “Introduction to Machine Learning” at MINES ParisTech - PSL Research University, lectured by Simon Tamayo.
+Style transfer example:
+![input_image_ex](./images/vangogh.jpg) 
+![input_style_ex](./images/cubism.jpg) 
+![output_ex](./results/vangogh_cubism.png) 
 
-### Acknowledgements
+### Acknowledgement
 
 Most of this demo was adapted from the PyTorch tutorial on Style Transfer (https://pytorch.org/tutorials/advanced/neural_style_tutorial.html), which explains how to implement the Neural-Style algorithm developed by L. A. Gatys, A. S. Ecker and M. Bethge.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Before running this code make sure you have Python3 and the packages: PyTorch, PIL, TorchVision and Matplotlib.
 
 ### VGG19
 
