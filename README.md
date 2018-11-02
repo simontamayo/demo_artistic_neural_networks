@@ -1,6 +1,7 @@
 # Style transfer using deep artificial neural networks
 
-This tutorial is one of the demos used in the course “Introduction to Machine Learning” at MINES ParisTech - PSL Research University, lectured by Simon Tamayo.
+This tutorial is one of the demos used in the course “Introduction to Machine Learning” at MINES ParisTech - 
+PSL Research University, lectured by [Simon Tamayo](https://www.mines-paristech.fr/Services/Annuaire/simon-tamayo).
 
 Here is what Style transfer looks like:
 
