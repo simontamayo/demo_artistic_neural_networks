@@ -16,7 +16,7 @@ Here is what Style transfer looks like:
 
 ![output_ex](./results/vangogh_cubism.png) 
 
-### Acknowledgement
+## Acknowledgement
 
 Most of this demo was adapted from the PyTorch tutorial on Style Transfer (https://pytorch.org/tutorials/advanced/neural_style_tutorial.html), which explains how to implement the Neural-Style algorithm developed by L. A. Gatys, A. S. Ecker and M. Bethge.
 
@@ -24,7 +24,7 @@ Most of this demo was adapted from the PyTorch tutorial on Style Transfer (https
 
 Before running this code make sure you have Python3 and the packages: PyTorch, PIL, TorchVision and Matplotlib.
 
-### VGG19
+## VGG19
 
 This tutorial uses the convolutional neural network VGG-19, which was trained on more than a million images from the [ImageNet database](http://www.image-net.org). The network is 19 layers deep and can classify images into 1000 object categories
 
