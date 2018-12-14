@@ -34,4 +34,4 @@ This tutorial uses the convolutional neural network VGG-19, which was trained on
 * [PyTorch](https://pytorch.org) - Deep learning platform
 * [TorchVision](https://pytorch.org/docs/stable/torchvision/index.html) - package withpopular datasets and model architectures for computer vision.
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://opensource.org/licenses/mit-license.php) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://opensource.org/licenses/mit-license.php) file for details.
